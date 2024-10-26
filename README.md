@@ -26,7 +26,7 @@
 <a href="https://www.linkedin.com/in/enys-ordaz-narvaez-5a167b252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enys ordaz narvaez" height="30" width="40" /></a>
 <a href="https://www.facebook.com/enys.ordaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="enys ackerson" height="30" width="40" /></a>
 <a href="https://www.instagram.com/enys_ackerson/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enys_ackerson" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@eonart3932" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="eon art" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCkPIhUoxSbeHWHjWTzvCmZQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="eon art" height="30" width="40" /></a>
 </p>
 
 
