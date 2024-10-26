@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Enys</h1>
 <h3 align="center">A passionate frontend developer student</h3>
 
-- 🔭 I’m currently working on [Chamber of Commerce Webpage](https://enysordaz.github.io/wdd231/chamber/index.html) & [Ackerson Eyecare Webpage](https://enysordaz.github.io/wdd231/ackerson-eyecare/index.html)
+- 🔭 I’m currently working on [Ackerson Eyecare Webpage](https://enysordaz.github.io/wdd231/ackerson-eyecare/index.html)
 
 - 🌱 I’m currently learning **Front End Development and how to make Dynamic Web Pages**
 
