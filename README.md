@@ -5,6 +5,7 @@
 <h3 align="center">A passionate frontend developer student</h3>
 
 - 🔭 I’m currently working on [Ackerson Eyecare Webpage](https://enysordaz.github.io/wdd231/ackerson-eyecare/index.html)
+      & Learning Backend developement and databases!
 
 - 🌱 I’m currently learning **Front End Development and how to make Dynamic Web Pages**
 
