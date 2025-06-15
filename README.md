@@ -5,9 +5,9 @@
 <h3 align="center">A passionate frontend developer student</h3>
 
 - 🔭 I’m currently working on [Ackerson Eyecare Webpage](https://enysordaz.github.io/wdd231/ackerson-eyecare/index.html)
-      & Learning Backend developement and databases!
+      & [CSE Motors Webpage](https://ws-repo-cse340.onrender.com/) 
 
-- 🌱 I’m currently learning **Front End Development and how to make Dynamic Web Pages**
+- 🌱 I’m currently learning **Frontend & Backend Development and how to make Dynamic Web Pages**
 
 - 👨‍💻 All of my projects are available at [https://github.com/enysordaz](https://github.com/enysordaz)
 
